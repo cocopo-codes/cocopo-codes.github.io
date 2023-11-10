@@ -10,6 +10,14 @@ Thank you for visiting Coco's writing portfolio. This is a curated list of Coco'
 
 ## Software development
 
+### [How to create a Quote using the Lumen Quoting API](https://developer.lumen.com/apis/quoting#how-tos_create-a-quote)
+
+_September 2023_
+
+### [Authentication with the Lumen DDoS Mitigation API](https://developer.lumen.com/apis/ddos-mitigation#authentication-authorization)
+
+_November 2023_
+
 ### [Why your data needs a QA process](https://stackoverflow.blog/2021/09/13/why-your-data-needs-a-qa-process/)
 
 _September 2021_
