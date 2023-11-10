@@ -26,17 +26,21 @@ _September 2021_
 
 _November 2022_
 
+### [The Pros and Cons of Open-source Software in Data Analytics](https://blog.panoply.io/pros-and-cons-of-open-source-in-data-analytics)
+
+_December 2021_
+
 ### [Can PostgreSQL Work as a Data Warehouse?](https://blog.panoply.io/postgresql-data-warehouse)
 
 _July 2021_
 
-### [4 Quick Facts About dbt Testing](https://dev.to/corissa/4-quick-facts-about-dbt-testing-299o)
-
-_November 2020_
-
 ### [Level Up Your dbt Schema Tests in 4 Easy Steps](https://dev.to/corissa/level-up-your-dbt-schema-tests-in-4-easy-steps-6k8)
 
 _June 2021_ 
+
+### [4 Quick Facts About dbt Testing](https://dev.to/corissa/4-quick-facts-about-dbt-testing-299o)
+
+_November 2020_
 
 ## Popular culture
 
