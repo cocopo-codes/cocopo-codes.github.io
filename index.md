@@ -60,4 +60,4 @@ _July 2018_
 
 ### [If Only a Cat Could Read a Book: Poetry throughout the years](https://youcancallmecoco.gumroad.com/l/ifonlyacatcouldreadabook)
 
-_Coco's charming all-ages debut poetry collection, featuring whimsy, teen angst, and fantasy stories._
+_Coco's charming all-ages debut poetry collection, featuring whimsy, teen angst, and fantasy stories, published in October 2022._

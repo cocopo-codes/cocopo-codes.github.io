@@ -8,8 +8,12 @@ permalink: /about/
 
 # About this website
 
-This writing portfolio website is made with [GitHub Pages](), [Jekyll](https://jekyllrb.com/docs/), and the [Primer theme](https://pages-themes.github.io/primer/). It was put together by Corissa (Coco) Poley, formerly Haury.
+This writing portfolio website is made with [GitHub Pages](https://github.com/cocopo-codes/), [Jekyll](https://jekyllrb.com/docs/), and the [Primer theme](https://pages-themes.github.io/primer/). It was put together by Corissa (Coco) Poley, formerly Haury.
 
 Thanks for visiting, and please don't forget to check out [Coco's written works](/index.md).
+
+#### More
+
+[Coco Poley on GitHub](https://github.com/cocopo-codes/)
 
 
