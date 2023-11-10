@@ -19,6 +19,10 @@ _September 2021_
 
 _November 2022_
 
+### [Can PostgreSQL Work as a Data Warehouse?](https://blog.panoply.io/postgresql-data-warehouse)
+
+_July 2021_
+
 ### [4 Quick Facts About dbt Testing](https://dev.to/corissa/4-quick-facts-about-dbt-testing-299o)
 
 _November 2020_
@@ -27,23 +31,22 @@ _November 2020_
 
 _June 2021_ 
 
-### Popular culture
+## Popular culture
 
+### [Comic Book Trailers and Their Creation: A Chat with Dark Horse Comics](https://womenwriteaboutcomics.com/2018/10/dark-horse-talks-trailers/)
 
-### Small image
+_October 2018_ 
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+### [Prism Stalker is a Kaleidoscopic Sci-Fi Story](https://womenwriteaboutcomics.com/2018/03/prism-stalker-kaleidoscopic-sci-fi/)
 
+_March 2018_ 
 
-### Definition lists can be used with HTML syntax.
+### [Hiring Creators: Independent Publishers Have A Chat](https://womenwriteaboutcomics.com/2018/07/hiring-creators-independent-publishers-have-a-chat/)
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+_July 2018_
+
+## Creative writing
+
+### [If Only a Cat Could Read a Book: Poetry throughout the years](https://youcancallmecoco.gumroad.com/l/ifonlyacatcouldreadabook)
+
+_Coco's charming all-ages debut poetry collection, featuring whimsy, teen angst, and fantasy stories._
