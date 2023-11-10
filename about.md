@@ -34,7 +34,7 @@ Find Coco online:
  
  Or, you can [buy her all-ages poetry book](https://youcancallmecoco.gumroad.com/l/ifonlyacatcouldreadabook), _If Only a Cat Could Read a Book_ direct from her online shop.
 
-<img src="./images/skatingfrogs.jpg" width="50%" alt="Frog friends roller skating, illustrated by Coco Poley">
+<img src="https://raw.githubusercontent.com/cocopo-codes/cocopo-codes.github.io/main/images/skatingfrogs.jpg" width="50%" alt="Frog friends roller skating, illustrated by Coco Poley">
 
  ### About this website
 
