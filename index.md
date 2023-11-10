@@ -2,7 +2,7 @@
 layout: default
 ---
 
-| [portfolio](/index.md) | [about](/about.md) | [linktree](https://linktr.ee/youcancallmecoco) | [buy my book](https://youcancallmecoco.gumroad.com/l/ifonlyacatcouldreadabook) | [get updates](https://buttondown.email/cocos-catchall) |
+| [portfolio](/index.md) | [about](/about.md) |
 
 #### Welcome
 
