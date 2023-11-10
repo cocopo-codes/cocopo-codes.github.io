@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-| [portfolio](/index.md) | [about](/about.md) | [linktree](https://linktr.ee/youcancallmecoco) | [buy my book](https://youcancallmecoco.gumroad.com/l/ifonlyacatcouldreadabook) |
-|:--------------|:-------------------|:--------------|:--------------|
+| [portfolio](/index.md) | [about](/about.md) | [linktree](https://linktr.ee/youcancallmecoco) | [buy my book](https://youcancallmecoco.gumroad.com/l/ifonlyacatcouldreadabook) | [get updates](https://buttondown.email/cocos-catchall) |
 
 # About this website
 
