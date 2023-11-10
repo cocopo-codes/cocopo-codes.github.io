@@ -2,103 +2,37 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+| [portfolio](/index.md) | [about](/about.md) | [linktree](https://linktr.ee/youcancallmecoco) | [buy my book](https://youcancallmecoco.gumroad.com/l/ifonlyacatcouldreadabook) |
+|:--------------|:-------------------|:--------------|:--------------|
 
-[Link to another page](./another-page.html).
+#### Welcome
 
-There should be whitespace between paragraphs.
+Thank you for visiting Coco's writing portfolio. This is a curated list of Coco's written works from around the web, organized by topic. 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Software development
 
-# Header 1
+### [Why your data needs a QA process](https://stackoverflow.blog/2021/09/13/why-your-data-needs-a-qa-process/)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+_September 2021_
 
-## Header 2
+### [Why writing by hand is still the best way to retain information](https://stackoverflow.blog/2022/11/23/why-writing-by-hand-is-still-the-best-way-to-retain-information/)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+_November 2022_
 
-### Header 3
+### [4 Quick Facts About dbt Testing](https://dev.to/corissa/4-quick-facts-about-dbt-testing-299o)
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+_November 2020_
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+### [Level Up Your dbt Schema Tests in 4 Easy Steps](https://dev.to/corissa/level-up-your-dbt-schema-tests-in-4-easy-steps-6k8)
 
-#### Header 4
+_June 2021_ 
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+### Popular culture
 
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
 
 ### Small image
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
 ### Definition lists can be used with HTML syntax.
@@ -113,11 +47,3 @@ end
 <dt>Color</dt>
 <dd>Green</dd>
 </dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
