@@ -11,14 +11,10 @@ permalink: /about/
 
 <img src="https://avatars.githubusercontent.com/u/48961373?v=4" width="200px" alt="Coco Poley, writer, illustrator, and programmer">
 
->
-> Hi there, and nice to meet you!
->
-> I've been writing, drawing, and creating things my whole life. I have been lucky enough to write professionally for some of that time. I have two big dogs, a loud laugh, and I love to roller skate. I hope that something I made brings you joy or touches your heart in some way. 
->
-> Sincerely,
-> 
-> _Coco_
+> Coco Poley is an emerging poet and writer who has recently begun her foray into the literary world. Her poetry has been published in
+> _Anodyne Magazine_ and _All Your Poems Magazine_. She has also written about software and handwriting, and has bylines
+> on the Stack Overflow blog and WWAC. An ex-vangelical, divorcee, and former homeschool kid, Coco has a lot to share
+> and many more stories to tell.  
 
 ## Coco on the internet
 
