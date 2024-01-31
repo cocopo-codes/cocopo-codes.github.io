@@ -12,49 +12,46 @@ Thank you for visiting Coco's portfolio. This is a curated list of Coco's writte
 
 ### [How to create a Quote using the Lumen Quoting API](https://developer.lumen.com/apis/quoting#how-tos_create-a-quote)
 
-_September 2023_
+Lumen API Developer Center, _September 2023_
 
 ### [Authentication with the Lumen DDoS Mitigation API](https://developer.lumen.com/apis/ddos-mitigation#authentication-authorization)
 
-_November 2023_
+Lumen API Developer Center, _November 2023_
 
 ### [Why your data needs a QA process](https://stackoverflow.blog/2021/09/13/why-your-data-needs-a-qa-process/)
 
-_September 2021_
+Stack Overflow blog, _September 2021_
 
 ### [Why writing by hand is still the best way to retain information](https://stackoverflow.blog/2022/11/23/why-writing-by-hand-is-still-the-best-way-to-retain-information/)
 
-_November 2022_
+Stack Overflow blog, _November 2022_
 
 ### [The Pros and Cons of Open-source Software in Data Analytics](https://blog.panoply.io/pros-and-cons-of-open-source-in-data-analytics)
 
-_December 2021_
-
-### [Can PostgreSQL Work as a Data Warehouse?](https://blog.panoply.io/postgresql-data-warehouse)
-
-_July 2021_
-
-### [Level Up Your dbt Schema Tests in 4 Easy Steps](https://dev.to/corissa/level-up-your-dbt-schema-tests-in-4-easy-steps-6k8)
-
-_June 2021_ 
-
-### [4 Quick Facts About dbt Testing](https://dev.to/corissa/4-quick-facts-about-dbt-testing-299o)
-
-_November 2020_
+Panoply, _December 2021_
 
 ## Popular culture
+Interviews and reviews centered around comic books and video games. 
 
 ### [Comic Book Trailers and Their Creation: A Chat with Dark Horse Comics](https://womenwriteaboutcomics.com/2018/10/dark-horse-talks-trailers/)
 
-_October 2018_ 
+WWAC, _October 2018_ 
 
 ### [Prism Stalker is a Kaleidoscopic Sci-Fi Story](https://womenwriteaboutcomics.com/2018/03/prism-stalker-kaleidoscopic-sci-fi/)
 
-_March 2018_ 
+WWAC, _March 2018_ 
 
 ### [Hiring Creators: Independent Publishers Have A Chat](https://womenwriteaboutcomics.com/2018/07/hiring-creators-independent-publishers-have-a-chat/)
 
-_July 2018_
+WWAC, _July 2018_
+
+### [VR’s Potential For Meaningful Accessibility: An Interview with Polyarc Games](https://sidequest.zone/2017/09/04/vrs-potential-meaningful-accessibility-interview-polyarc-games/)
+
+Sidequest, _September 2017_
+
+### [A Bunch of Tiny Birds: An Interview with Daisy Ein](https://sidequest.zone/2018/01/15/a-bunch-of-tiny-birds-an-interview-with-daisy-ein/)
+
+Sidequest, _January 2018_
 
 ## Creative writing
 
