@@ -6,7 +6,7 @@ layout: default
 
 #### Welcome
 
-Thank you for visiting Coco's writing portfolio. This is a curated list of Coco's written works from around the web, organized by topic. 
+Thank you for visiting Coco's portfolio. This is a curated list of Coco's written works from around the web, organized by topic. 
 
 ## Software development
 
@@ -58,6 +58,10 @@ _July 2018_
 
 ## Creative writing
 
+### [February 2024 Print Issue of All Your Poems Magazine](https://www.amazon.com/gp/product/B0CTKBMVR2/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1&fbclid=IwAR2lwxux3jrkE8Ri1LXV44mrg6r-wriTShcBIGXZfO9D8k5Xo1a2_g-u0zQ)
+
+_Two of Coco's poems, "I am a magnifying glass" and "All the glories of summer" were accepted for publication in the February 2024 issue of [All Your Poems magazine](https://allyourpoems.com)._
+
 ### [If Only a Cat Could Read a Book: Poetry throughout the years](https://youcancallmecoco.gumroad.com/l/ifonlyacatcouldreadabook)
 
-_Coco's charming all-ages debut poetry collection, featuring whimsy, teen angst, and fantasy stories, published in October 2022._
+_Coco's charming all-ages debut poetry collection, featuring whimsy, teen angst, and fantasy stories, self-published in October 2022._
