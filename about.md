@@ -11,10 +11,7 @@ permalink: /about/
 
 <img src="https://avatars.githubusercontent.com/u/48961373?v=4" width="200px" alt="Coco Poley, writer, illustrator, and programmer">
 
-> Coco Poley is an emerging poet and writer who has recently begun her foray into the literary world. Her poetry has been published in
-> _Anodyne Magazine_ and _All Your Poems Magazine_. She has also written about software and handwriting, and has bylines
-> on the Stack Overflow blog and WWAC. An ex-vangelical, divorcee, and former homeschool kid, Coco has a lot to share
-> and many more stories to tell.  
+> Coco Poley is an emerging poet and writer who has recently begun her foray into the publishing world. Her poetry has been published in indie literary magazines such as _Anodyne Magazine_ and _All Your Poems Magazine_. She has also written about software and handwriting, and has bylines on the Stack Overflow blog and WWAC. An ex-vangelical, divorcee, queer person, and former homeschool kid, Coco has a lot to share and many more stories to tell.  
 
 ## Coco on the internet
 
