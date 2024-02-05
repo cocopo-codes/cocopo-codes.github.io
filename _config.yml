@@ -28,7 +28,7 @@ twitter_username:
 github_username: cocopo-codes
 
 # Build settings
-theme: jekyll-theme-primer
+theme: just-the-docs
 plugins:
   - jekyll-remote-feed
   - jekyll-feed
