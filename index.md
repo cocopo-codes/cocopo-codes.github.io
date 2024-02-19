@@ -8,27 +8,23 @@ layout: default
 
 Thank you for visiting Coco's portfolio. This is a curated list of Coco's written works from around the web, organized by topic. 
 
-## Software development
+## Technology
+
+### [What Is Satellite Cellular Service and Would It Benefit Us?](https://www.howtogeek.com/what-is-satellite-cellular-service/)
+
+How-to Geek, _February 2024_
 
 ### [How to create a Quote using the Lumen Quoting API](https://developer.lumen.com/apis/quoting#how-tos_create-a-quote)
 
 Lumen API Developer Center, _September 2023_
 
-### [Authentication with the Lumen DDoS Mitigation API](https://developer.lumen.com/apis/ddos-mitigation#authentication-authorization)
-
-Lumen API Developer Center, _November 2023_
-
-### [Why your data needs a QA process](https://stackoverflow.blog/2021/09/13/why-your-data-needs-a-qa-process/)
-
-Stack Overflow blog, _September 2021_
-
 ### [Why writing by hand is still the best way to retain information](https://stackoverflow.blog/2022/11/23/why-writing-by-hand-is-still-the-best-way-to-retain-information/)
 
 Stack Overflow blog, _November 2022_
 
-### [The Pros and Cons of Open-source Software in Data Analytics](https://blog.panoply.io/pros-and-cons-of-open-source-in-data-analytics)
+### [Why your data needs a QA process](https://stackoverflow.blog/2021/09/13/why-your-data-needs-a-qa-process/)
 
-Panoply, _December 2021_
+Stack Overflow blog, _September 2021_
 
 ## Popular culture
 Interviews and reviews centered around comic books and video games. 
