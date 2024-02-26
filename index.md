@@ -6,6 +6,8 @@ layout: default
 
 #### Welcome
 
+Coco has authored articles on quality assurance, data engineering, comics, video games, tv, and handwriting that have garnered over half a million views. She has written technical documentation and onboarding curriculum that increased learning materials for data, software, and quality assurance engineers by 200%. Coco creates useful, well-architected technical documentation and How-To guides as well as engaging, challenging review content.
+
 Thank you for visiting Coco's portfolio. This is a curated list of Coco's written works from around the web, organized by topic. 
 
 ## Technology
