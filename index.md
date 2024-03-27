@@ -6,7 +6,7 @@ layout: default
 
 #### Welcome
 
-Coco has authored articles on quality assurance, data engineering, comics, video games, tv, and handwriting that have garnered over half a million views. She has written technical documentation and onboarding curriculum that increased learning materials for data, software, and quality assurance engineers by 200%. Coco creates useful, well-architected technical documentation and How-To guides as well as engaging, challenging review content.
+Coco Poley is a freelance writer, prolific poet, and artist who has been writing professionally for seven years. When Coco isn't writing poetry and fiction, they are creating some form of art or roller skating. You can find Coco's features on comics, TV, games, software, and film across the web on The Stack Overflow blog, How-to Geek, Women Write About Comics, and Sidequest.Zone. Follow Coco's journey as an author or buy their art at [linktr.ee/youcancallmecoco](http://linktr.ee/youcancallmecoco).
 
 Thank you for visiting Coco's portfolio. This is a curated list of Coco's written works from around the web, organized by topic. 
 
