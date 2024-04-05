@@ -6,9 +6,9 @@ layout: default
 
 #### Welcome
 
-Coco Poley is a freelance writer, prolific poet, and artist who has been writing professionally for seven years. When Coco isn't writing poetry and fiction, they are creating some form of art or roller skating. You can find Coco's features on comics, TV, games, software, and film across the web in places like The Mary Sue, The Stack Overflow blog, and How-to Geek. Follow Coco's journey as an author or buy their art at [linktr.ee/youcancallmecoco](http://linktr.ee/youcancallmecoco).
+Coco Poley is a freelance writer, prolific poet, and artist who has been writing professionally for seven years. When Coco isn't writing poetry and fiction, they are creating some form of art or roller skating. You can find her features on comics, TV, games, software, and film across the web in places like The Mary Sue, The Stack Overflow blog, and How-to Geek. Follow Coco's journey or buy their art at [linktr.ee/youcancallmecoco](http://linktr.ee/youcancallmecoco).
 
-Thank you for visiting Coco's portfolio. This is a curated list of Coco's written works from around the web, organized by topic. 
+Thank you for visiting Coco's portfolio. 
 
 ## Technology
 
