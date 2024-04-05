@@ -29,11 +29,15 @@ Stack Overflow blog, _November 2022_
 Stack Overflow blog, _September 2021_
 
 ## Popular culture
-Interviews and reviews centered around comic books and video games. 
+Features centered on tv, films, comic books, and video games. 
 
-### [Comic Book Trailers and Their Creation: A Chat with Dark Horse Comics](https://womenwriteaboutcomics.com/2018/10/dark-horse-talks-trailers/)
+### [11 Best Period Dramas on Prime]([https://womenwriteaboutcomics.com/2018/10/dark-horse-talks-trailers/](https://www.themarysue.com/best-period-dramas-on-prime/)
 
-WWAC, _October 2018_ 
+The Mary Sue, _March 2024_ 
+
+### [Reading ‘Polysecure’? You Need To Watch ’90 Day Fiancé’ at the Same Time](https://www.themarysue.com/reading-polysecure-watch-90-day-fiance/)
+
+The Mary Sue, _April 2024_ 
 
 ### [Prism Stalker is a Kaleidoscopic Sci-Fi Story](https://womenwriteaboutcomics.com/2018/03/prism-stalker-kaleidoscopic-sci-fi/)
 
