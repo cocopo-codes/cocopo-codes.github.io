@@ -57,6 +57,10 @@ Sidequest, _January 2018_
 
 ## Creative writing
 
+### [Volume 2 of Anodyne Magazine](https://anodynemag.com/vol2/)
+
+_Coco's poem, "Gladiatrix" was accepted for publication in Volume 2 of [Anodyne magazine](https://anodynemag.com/)._
+
 ### [February 2024 Print Issue of All Your Poems Magazine](https://www.amazon.com/gp/product/B0CTKBMVR2/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1&fbclid=IwAR2lwxux3jrkE8Ri1LXV44mrg6r-wriTShcBIGXZfO9D8k5Xo1a2_g-u0zQ)
 
 _Two of Coco's poems, "I am a magnifying glass" and "All the glories of summer" were accepted for publication in the February 2024 issue of [All Your Poems magazine](https://allyourpoems.com)._
