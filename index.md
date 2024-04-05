@@ -31,7 +31,7 @@ Stack Overflow blog, _September 2021_
 ## Popular culture
 Features centered on tv, films, comic books, and video games. 
 
-### [11 Best Period Dramas on Prime]([https://womenwriteaboutcomics.com/2018/10/dark-horse-talks-trailers/](https://www.themarysue.com/best-period-dramas-on-prime/)
+### [11 Best Period Dramas on Prime](https://www.themarysue.com/best-period-dramas-on-prime/)
 
 The Mary Sue, _March 2024_ 
 
