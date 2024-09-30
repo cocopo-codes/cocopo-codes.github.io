@@ -6,23 +6,27 @@ layout: default
 
 #### Welcome
 
-Coco Poley is a freelance writer, prolific poet, and artist who has been writing professionally for seven years. When Coco isn't writing poetry and fiction, they are creating some form of art or roller skating. You can find her features on comics, TV, games, software, and film across the web in places like The Mary Sue, The Stack Overflow blog, and How-to Geek. Follow Coco's journey or buy their art at [linktr.ee/itscocopo](http://linktr.ee/itscocopo).
+Coco Poley is a writer, poet, and artist. When Coco isn't writing blogs for TinyMCE, poetry, or fiction, they are creating some form of art or roller skating. You can find her features on comics, TV, games, software, and film across the web in places like The Mary Sue, The Stack Overflow blog, and How-to Geek. Follow Coco's journey or buy their art at [linktr.ee/itscocopo](http://linktr.ee/itscocopo).
 
 Thank you for visiting Coco's portfolio. 
 
 ## Technology
 
-### [What Is Satellite Cellular Service and Would It Benefit Us?](https://www.howtogeek.com/what-is-satellite-cellular-service/)
+### [Angular vs React vs Vue - Detailed Framework Comparison](https://www.tiny.cloud/blog/vue-react-angular-js-framework-comparison/)
 
-How-to Geek, _February 2024_
+TinyMCE Blog, _August 2024_
+
+### [Why TinyMCE is the Most Secure Rich Text Editor](https://www.tiny.cloud/blog/the-most-secure-rich-text-editor-with-soc-compliance-certification/)
+
+TinyMCE Blog, _September 2024_
+
+### [How AI Text Editors Improve Content Creation](https://www.tiny.cloud/blog/how-ai-text-editors-improve-content-creation/)
+
+TinyMCE Blog, _September 2024_
 
 ### [How to create a Quote using the Lumen Quoting API](https://developer.lumen.com/apis/quoting#how-tos_create-a-quote)
 
 Lumen API Developer Center, _September 2023_
-
-### [Why writing by hand is still the best way to retain information](https://stackoverflow.blog/2022/11/23/why-writing-by-hand-is-still-the-best-way-to-retain-information/)
-
-Stack Overflow blog, _November 2022_
 
 ### [Why your data needs a QA process](https://stackoverflow.blog/2021/09/13/why-your-data-needs-a-qa-process/)
 
@@ -31,9 +35,13 @@ Stack Overflow blog, _September 2021_
 ## Popular culture
 Features centered on tv, films, comic books, and video games. 
 
-### [11 Best Period Dramas on Prime](https://www.themarysue.com/best-period-dramas-on-prime/)
+### [‘Star Wars’ Most Maligned Movie Still Slaps 25 Years Later](https://www.themarysue.com/star-wars-most-maligned-movie-still-slaps-25-years-later/)
 
-The Mary Sue, _March 2024_ 
+The Mary Sue, _May 2024_
+
+### [Which ‘Fallout’ Character Are You, Based on Your Zodiac Sign?](https://www.themarysue.com/which-fallout-character-am-i-based-on-my-zodiac-sign/)
+
+The Mary Sue, _April 2024_ 
 
 ### [Reading ‘Polysecure’? You Need To Watch ’90 Day Fiancé’ at the Same Time](https://www.themarysue.com/reading-polysecure-watch-90-day-fiance/)
 
@@ -46,10 +54,6 @@ WWAC, _March 2018_
 ### [Hiring Creators: Independent Publishers Have A Chat](https://womenwriteaboutcomics.com/2018/07/hiring-creators-independent-publishers-have-a-chat/)
 
 WWAC, _July 2018_
-
-### [VR’s Potential For Meaningful Accessibility: An Interview with Polyarc Games](https://sidequest.zone/2017/09/04/vrs-potential-meaningful-accessibility-interview-polyarc-games/)
-
-Sidequest, _September 2017_
 
 ### [A Bunch of Tiny Birds: An Interview with Daisy Ein](https://sidequest.zone/2018/01/15/a-bunch-of-tiny-birds-an-interview-with-daisy-ein/)
 
