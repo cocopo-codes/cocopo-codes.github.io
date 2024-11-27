@@ -2,7 +2,7 @@
 layout: default
 ---
 
-| [portfolio](/index.md) | [about](/about.md) | [linktree]([https://](https://linktr.ee/itscocopo)) |
+| [portfolio](/index.md) | [about](/about.md) | [linktree](https://linktr.ee/itscocopo) |
 
 # Coco Poley
 ## _Creative Content Marketer & Writer | Blending Tech Expertise with Engaging Storytelling | Driving Audience Growth Across Industries_
