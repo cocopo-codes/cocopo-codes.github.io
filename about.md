@@ -8,7 +8,7 @@ permalink: /about/
 
 # More about Coco Poley
 
-<img src="https://pbs.twimg.com/profile_images/1815504471402680320/nH_j_kTR_400x400.jpg" width="200px" alt="Coco Poley, writer, illustrator, and programmer">
+<img src="https://images.pexels.com/photos/1309766/pexels-photo-1309766.jpeg" width="35%" align="right" alt="Image of a Mac keyboard from Tom Swinnen on Pexels">
 
 #### [Get creative updates, poetry, short stories, and news from Coco](https://buttondown.email/cocos-catchall) in your inbox.
 
@@ -19,7 +19,7 @@ Find me online:
 - [Youtube](https://www.youtube.com/channel/UCqYMV3E2V9zUS1kpI8450Dw)
 - [Coco on GitHub](https://github.com/cocopo-codes/)
  
- Or, you can [buy my all-ages poetry book](https://youcancallmecoco.gumroad.com/l/ifonlyacatcouldreadabook), _If Only a Cat Could Read a Book_ direct from her online shop.
+ Or, you can [buy my all-ages poetry book](https://youcancallmecoco.gumroad.com/l/ifonlyacatcouldreadabook), _If Only a Cat Could Read a Book_ direct from my online shop.
 
 <img src="https://raw.githubusercontent.com/cocopo-codes/cocopo-codes.github.io/main/images/skatingfrogs.jpg" width="50%" alt="Frog friends roller skating, illustrated by Coco Poley">
 
