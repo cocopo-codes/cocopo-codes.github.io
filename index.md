@@ -2,15 +2,20 @@
 layout: default
 ---
 
-| [portfolio](/index.md) | [about](/about.md) | [support coco's print work](https://www.backerkit.com/call_to_action/7733feca-74ac-4540-a0ae-7074f0541651/landing) |
+| [portfolio](/index.md) | [about](/about.md) | [linktree]([https://](https://linktr.ee/itscocopo)) |
 
-#### Welcome
+# Coco Poley
+## _Creative Content Marketer & Writer | Blending Tech Expertise with Engaging Storytelling | Driving Audience Growth Across Industries_
 
-Coco Poley is a writer, poet, and artist. When Coco isn't writing blogs for TinyMCE, poetry, or fiction, they are creating some form of art or roller skating. You can find her features on comics, TV, games, software, and film across the web in places like The Mary Sue, The Stack Overflow blog, and How-to Geek. Follow Coco's journey or buy their art at [linktr.ee/itscocopo](http://linktr.ee/itscocopo).
+Hi, I’m Coco—a technical content marketer with a knack for breaking down complex ideas into approachable, engaging narratives. My work spans tech, pop culture, and entertainment, with bylines in outlets like The Mary Sue and Stack Overflow. Thanks to my roots in data engineering and software QA, I create content that speaks to developers, businesses, and everyday readers alike.
 
-Thank you for visiting Coco's portfolio. 
+From APIs to pop culture analysis, my storytelling approach prioritizes connection. I aim to inspire trust and curiosity, whether I’m demystifying technical processes or unpacking the cultural significance of a sci-fi masterpiece.
 
-## Technology
+When I’m not writing, you’ll find me working on my newsletter, Coco’s Catchall, or brainstorming ways to merge technology and creativity into something extraordinary.
+
+Thank you for visiting my portfolio. 
+
+## Coco Poley's tech writing
 
 ### [Angular vs React vs Vue - Detailed Framework Comparison](https://www.tiny.cloud/blog/vue-react-angular-js-framework-comparison/)
 
@@ -32,7 +37,7 @@ Lumen API Developer Center, _September 2023_
 
 Stack Overflow blog, _September 2021_
 
-## Popular culture
+## Coco Poley's popular culture writing
 Features centered on tv, films, comic books, and video games. 
 
 ### [‘Star Wars’ Most Maligned Movie Still Slaps 25 Years Later](https://www.themarysue.com/star-wars-most-maligned-movie-still-slaps-25-years-later/)
@@ -59,7 +64,7 @@ WWAC, _July 2018_
 
 Sidequest, _January 2018_
 
-## Creative writing
+## Coco Poley's creative writing
 
 ### [Volume 2 of Anodyne Magazine](https://anodynemag.com/vol2/)
 
