@@ -7,60 +7,68 @@ layout: default
 # Coco Poley
 ## _Creative Content Marketer & Writer | Blending Tech Expertise with Engaging Storytelling | Driving Audience Growth Across Industries_
 
-Hi, I’m Coco—a technical content marketer with a knack for breaking down complex ideas into approachable, engaging narratives. My work spans tech, pop culture, and entertainment, with bylines in outlets like The Mary Sue and Stack Overflow. Thanks to my roots in data engineering and software QA, I create content that speaks to developers, businesses, and everyday readers alike.
+Hi, I’m Coco—a storyteller at heart, blending technical precision with a love for making complex ideas accessible and relatable. With roots in data engineering and software QA, I craft content that bridges the gap between developers, businesses, and everyday readers. Whether I’m demystifying APIs or analyzing the cultural ripple effects of a sci-fi masterpiece, I aim to inspire curiosity and connection through my writing.
 
-From APIs to pop culture analysis, my storytelling approach prioritizes connection. I aim to inspire trust and curiosity, whether I’m demystifying technical processes or unpacking the cultural significance of a sci-fi masterpiece.
+My work spans tech, pop culture, and entertainment, with bylines in outlets like The Mary Sue and Stack Overflow. I love exploring the intersection of technology and creativity, often weaving the technical with the human to tell stories that resonate.
 
-When I’m not writing, you’ll find me working on my newsletter, Coco’s Catchall, or brainstorming ways to merge technology and creativity into something extraordinary.
+When I’m not deep-diving into a narrative or a piece of code, I’m working on my newsletter or scheming ways to create a new story.
 
-Thank you for visiting my portfolio. 
+Thanks for visiting—welcome to my little corner of the web!
 
 ## Coco Poley's tech writing
 
-### [Angular vs React vs Vue - Detailed Framework Comparison](https://www.tiny.cloud/blog/vue-react-angular-js-framework-comparison/)
+### 2024
 
-TinyMCE Blog, _August 2024_
+#### [What is WYSIWYG? Definition, Meaning and Key Features](https://www.tiny.cloud/blog/what-is-wysiwyg/)
 
-### [Why TinyMCE is the Most Secure Rich Text Editor](https://www.tiny.cloud/blog/the-most-secure-rich-text-editor-with-soc-compliance-certification/)
+TinyMCE Blog, _November 2024_
 
-TinyMCE Blog, _September 2024_
+#### [Why Speed and Reliability Define the Best Fast Rich Text Editor](https://www.tiny.cloud/blog/why-speed-and-reliability-define-the-best-fast-rich-text-editor/)
 
-### [How AI Text Editors Improve Content Creation](https://www.tiny.cloud/blog/how-ai-text-editors-improve-content-creation/)
+TinyMCE Blog, _November 2024_
 
-TinyMCE Blog, _September 2024_
+#### More from [Coco Poley on the TinyMCE Blog](https://www.tiny.cloud/blog/author/coco-poley/)
 
-### [How to create a Quote using the Lumen Quoting API](https://developer.lumen.com/apis/quoting#how-tos_create-a-quote)
+### 2023
+
+#### [How to create a Quote using the Lumen Quoting API](https://developer.lumen.com/apis/quoting#how-tos_create-a-quote)
 
 Lumen API Developer Center, _September 2023_
 
-### [Why your data needs a QA process](https://stackoverflow.blog/2021/09/13/why-your-data-needs-a-qa-process/)
+#### Older
+
+#### [Why your data needs a QA process](https://stackoverflow.blog/2021/09/13/why-your-data-needs-a-qa-process/)
 
 Stack Overflow blog, _September 2021_
 
 ## Coco Poley's popular culture writing
 Features centered on tv, films, comic books, and video games. 
 
-### [‘Star Wars’ Most Maligned Movie Still Slaps 25 Years Later](https://www.themarysue.com/star-wars-most-maligned-movie-still-slaps-25-years-later/)
+### 2024
+
+#### [‘Star Wars’ Most Maligned Movie Still Slaps 25 Years Later](https://www.themarysue.com/star-wars-most-maligned-movie-still-slaps-25-years-later/)
 
 The Mary Sue, _May 2024_
 
-### [Which ‘Fallout’ Character Are You, Based on Your Zodiac Sign?](https://www.themarysue.com/which-fallout-character-am-i-based-on-my-zodiac-sign/)
+#### [Which ‘Fallout’ Character Are You, Based on Your Zodiac Sign?](https://www.themarysue.com/which-fallout-character-am-i-based-on-my-zodiac-sign/)
 
 The Mary Sue, _April 2024_ 
 
-### [Reading ‘Polysecure’? You Need To Watch ’90 Day Fiancé’ at the Same Time](https://www.themarysue.com/reading-polysecure-watch-90-day-fiance/)
+#### [Reading ‘Polysecure’? You Need To Watch ’90 Day Fiancé’ at the Same Time](https://www.themarysue.com/reading-polysecure-watch-90-day-fiance/)
 
 The Mary Sue, _April 2024_ 
 
-### [Prism Stalker is a Kaleidoscopic Sci-Fi Story](https://womenwriteaboutcomics.com/2018/03/prism-stalker-kaleidoscopic-sci-fi/)
+### Older
+
+#### [Prism Stalker is a Kaleidoscopic Sci-Fi Story](https://womenwriteaboutcomics.com/2018/03/prism-stalker-kaleidoscopic-sci-fi/)
 
 WWAC, _March 2018_ 
 
-### [Hiring Creators: Independent Publishers Have A Chat](https://womenwriteaboutcomics.com/2018/07/hiring-creators-independent-publishers-have-a-chat/)
+#### [Hiring Creators: Independent Publishers Have A Chat](https://womenwriteaboutcomics.com/2018/07/hiring-creators-independent-publishers-have-a-chat/)
 
 WWAC, _July 2018_
 
-### [A Bunch of Tiny Birds: An Interview with Daisy Ein](https://sidequest.zone/2018/01/15/a-bunch-of-tiny-birds-an-interview-with-daisy-ein/)
+#### [A Bunch of Tiny Birds: An Interview with Daisy Ein](https://sidequest.zone/2018/01/15/a-bunch-of-tiny-birds-an-interview-with-daisy-ein/)
 
 Sidequest, _January 2018_
 
