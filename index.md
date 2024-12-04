@@ -7,7 +7,7 @@ layout: default
 # Coco Poley
 ## _Creative Content Marketer & Writer | Blending Tech Expertise with Engaging Storytelling | Driving Audience Growth Across Industries_
 
-<img src="https://pbs.twimg.com/profile_images/1815504471402680320/nH_j_kTR_400x400.jpg" width="25%" align="left" alt="Coco Poley, writer, illustrator, and programmer">
+<img src="https://avatars.githubusercontent.com/u/175722525?v=4" width="25%" align="left" alt="Coco Poley, writer, illustrator, and programmer">
 
 Hi, I’m Coco—a storyteller at heart, blending technical precision with a love for making complex ideas accessible and relatable. With roots in data engineering and software QA, I craft content that bridges the gap between developers, businesses, and everyday readers. Whether I’m demystifying APIs or analyzing the cultural ripple effects of a sci-fi masterpiece, I aim to inspire curiosity and connection through my writing.
 
