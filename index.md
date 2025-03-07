@@ -3,7 +3,7 @@ layout: home
 title: Welcome to Coco's portfolio ✨
 ---
 
-| [home](/index/) | [tech](/tech-writing/) | [pop culture](/pop-culture/) | [creative](/creative/) | [code](/code/) | [zines/books](/books/) | [illustration](/illustration/) | [about](/about/) |
+[tech](/tech-writing/) | [pop culture](/pop-culture/) | [creative](/creative/) | [code](/code/) | [zines/books](/books/) | [illustration](/illustration/) | [about](/about/) |
 
 👋🏻 Hi, I’m Coco, a storyteller at heart who journeyed through the software world as a quality assurance engineer, and a data quality engineer for eight years before I settled into my true calling: writing. I enjoy blending technical precision and making complex technology accessible and relatable. I aim to inspire curiosity and connection through my writing. 
 

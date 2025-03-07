@@ -4,7 +4,7 @@ title: Coco Poley's Illustrations
 permalink: /illustration/
 ---
 
-| [home](/index/) | [tech](/tech-writing/) | [pop culture](/pop-culture/) | [creative](/creative/) | [code](/code/) | [zines/books](/books/) | [illustration](/illustration/) | [about](/about/) |
+[tech](/tech-writing/) | [pop culture](/pop-culture/) | [creative](/creative/) | [code](/code/) | [zines/books](/books/) | [illustration](/illustration/) | [about](/about/) |
 
 
 Coco is a self-taught illustrator who uses digital and analog mediums to create cute and fun artwork, meaningful prints, and sweet watercolor paintings. Please enjoy exploring Coco's illustrations.

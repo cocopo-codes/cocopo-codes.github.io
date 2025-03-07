@@ -4,7 +4,7 @@ title: More from Coco Poley
 permalink: /about/
 ---
 
-| [home](/index/) | [tech](/tech-writing/) | [pop culture](/pop-culture/) | [creative](/creative/) | [code](/code/) | [zines/books](/books/) | [illustration](/illustration/) | [about](/about/) |
+[tech](/tech-writing/) | [pop culture](/pop-culture/) | [creative](/creative/) | [code](/code/) | [zines/books](/books/) | [illustration](/illustration/) | [about](/about/) |
 
 <img src="/images/skatingfrogs.jpg" width="100%" alt="Frog friends roller skating, illustrated by Coco Poley">
 

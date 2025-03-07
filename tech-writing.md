@@ -4,7 +4,7 @@ title: Coco Poley's Technical Writing
 permalink: /tech-writing/
 ---
 
-| [home](/index/) | [tech](/tech-writing/) | [pop culture](/pop-culture/) | [creative](/creative/) | [code](/code/) | [zines/books](/books/) | [illustration](/illustration/) | [about](/about/) | 
+[tech](/tech-writing/) | [pop culture](/pop-culture/) | [creative](/creative/) | [code](/code/) | [zines/books](/books/) | [illustration](/illustration/) | [about](/about/) | 
 
 From the TinyMCE blog to the Stack Overflow blog to the Lumen Developer Center, Coco has worked on numerous technical articles, guides, and how-tos targeted towards developers. Here are a few samples of their work. 
 
