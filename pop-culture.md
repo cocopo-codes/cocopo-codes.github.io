@@ -4,7 +4,7 @@ title: Coco Poley's Pop Culture Writing
 permalink: /pop-culture/
 ---
 
-[tech](/tech-writing/) | [pop culture](/pop-culture/) | [creative](/creative/) | [code](/code/) | [zines/books](/books/) | [illustration](/illustration/) | [about](/about/) |
+[pop culture](/pop-culture/) | [creative](/creative/) | [zines/books](/books/) | [illustration](/illustration/) | [about](/about/)
 
 
 Since she was young, Coco has always loves a great story in every and any form. This love for great movies, TV, games, and fandoms like Star Wars, Lord of the Rings, Game of Thrones, Fallout, and more. Here are a few of Coco's features centered on tv, films, comic books, and video games. 

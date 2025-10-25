@@ -4,7 +4,7 @@ title: Coco Poley's Code Experience
 permalink: /code/
 ---
 
-[tech](/tech-writing/) | [pop culture](/pop-culture/) | [creative](/creative/) | [code](/code/) | [zines/books](/books/) | [illustration](/illustration/) | [about](/about/) | 
+[pop culture](/pop-culture/) | [creative](/creative/) | [zines/books](/books/) | [illustration](/illustration/) | [about](/about/)
 
 From the age of 12, Coco has been making websites with HTML. That turned into a career in software quality assurance test automation across every part of the SDLC: APIs, data pipelines, and front-end web applications. Though Coco is now a full-time technical writer, they still love to program. Here are some of the code projects Coco has made and been a part of.
 
@@ -22,9 +22,3 @@ GetInsight is a series of handy Jupyter notebooks that let anyone quickly get th
 **dbt Test Examples**
 
 Back in 2021, Coco wrote a series of helpful dbt test examples, since there weren't a lot of them online at the time. This helped her train colleagues and share what she learned, so others could use it as a resource. [Click here to visit the repo](https://github.com/cocopo-codes/dbtTestExamples)
-
-## Tech talks
-
-In October 2022 at [dbt's](https://www.getdbt.com/) Coalesce conference, Coco gave a 30 minute talk on how dbt can be used at the enterprise level, based on their experience as a Data Quality Engineer at WEX, Inc. Check it out ⬇️
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/itcp28mup3c?si=m6LjPpahtsnzlldU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
