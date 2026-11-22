@@ -5,7 +5,6 @@ title: Coco Poley's Code Experience
 permalink: /code/
 ---
 
-[work](/tech-writing/) | [services](/services/) | [speaking](/speaking/) | [pop culture](/pop-culture/) | [creative](/creative/) | [zines/books](/books/) | [illustration & prints](/illustration/) | [code](/code/) | [about](/about/)
 
 From the age of 12, Coco has been making websites with HTML. That turned into a career in software quality assurance test automation across every part of the SDLC: APIs, data pipelines, and front-end web applications. Though Coco is now a full-time technical writer, they still love to program. Here are some of the code projects Coco has made and been a part of.
 

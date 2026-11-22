@@ -6,7 +6,6 @@ permalink: /speaking/
 author_profile: true
 ---
 
-[work](/tech-writing/) | [services](/services/) | [speaking](/speaking/) | [pop culture](/pop-culture/) | [creative](/creative/) | [zines/books](/books/) | [illustration & prints](/illustration/) | [code](/code/) | [about](/about/)
 
 I create presentations, scripts, and video content that make technical concepts accessible and engaging. From conference talks at Coalesce to marketing videos for TinyMCE to DEI webinars for LGBTQIA+ inclusion, I help teams communicate complex ideas clearly.
 

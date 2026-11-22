@@ -19,7 +19,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Coco Poley's Portfolio"
 title_separator          : "-"
-subtitle                 : "Technical content, SEO, pop culture, poetry, zines, and illustration by Coco Poley."
+subtitle                 : "Technical content engineer & writer"
 name                     : "Coco Poley"
 description              : "Portfolio of Coco Poley, a Madrid-based technical content writer and SEO/AEO specialist who also writes pop culture, poetry, and makes zines and illustrations."
 url                      : "https://cocopo-codes.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -305,6 +305,13 @@ compress_html:
 
 # Defaults
 defaults:
+  # pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
   # _posts
   - scope:
       path: ""

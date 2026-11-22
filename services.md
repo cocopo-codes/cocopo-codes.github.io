@@ -6,7 +6,6 @@ permalink: /services/
 author_profile: true
 ---
 
-[work](/tech-writing/) | [services](/services/) | [speaking](/speaking/) | [pop culture](/pop-culture/) | [creative](/creative/) | [zines/books](/books/) | [illustration & prints](/illustration/) | [code](/code/) | [about](/about/)
 
 <p class="lede">I help teams craft documentation and content that teaches, engages, and scales, and I check it the way a QA engineer would.</p>
 
