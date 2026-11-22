@@ -126,3 +126,10 @@ html .page__title,html #page-title,html .page__title a,html .page__inner-wrap .p
   .page{width:calc(100% - 300px) !important}
 }
 .page__inner-wrap,.page__content{max-width:none}
+
+/* ---- Desktop text size: Minimal Mistakes scales the root font up to 22px on wide screens ---- */
+html{font-size:16px}
+@media (min-width:64em){html{font-size:17px}}
+
+/* ---- Transparent PNGs get a white backdrop so they read in dark mode ---- */
+img[src$=".png" i],img[src$=".PNG"]{background:#fff}
