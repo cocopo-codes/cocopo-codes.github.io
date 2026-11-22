@@ -1,10 +1,11 @@
 ---
 layout: single
+description: "Coco Poley's digital illustrations, watercolors, and riso prints."
 title: Coco Poley's Illustrations
 permalink: /illustration/
 ---
 
-[pop culture](/pop-culture/) | [creative](/creative/) | [zines/books](/books/) | [illustration](/illustration/) | [about](/about/)
+[work](/tech-writing/) | [services](/services/) | [speaking](/speaking/) | [pop culture](/pop-culture/) | [creative](/creative/) | [zines/books](/books/) | [illustration & prints](/illustration/) | [code](/code/) | [about](/about/)
 
 
 Coco is a self-taught illustrator who uses digital and analog mediums to create cute and fun artwork, meaningful prints, and sweet watercolor paintings. Please enjoy exploring Coco's illustrations.

@@ -1,10 +1,11 @@
 ---
 layout: single
+description: "Coco Poley's published poetry and creative writing."
 title: Coco Poley's Creative Writing
 permalink: /creative/
 ---
 
-[pop culture](/pop-culture/) | [creative](/creative/) | [zines/books](/books/) | [illustration](/illustration/) | [about](/about/)
+[work](/tech-writing/) | [services](/services/) | [speaking](/speaking/) | [pop culture](/pop-culture/) | [creative](/creative/) | [zines/books](/books/) | [illustration & prints](/illustration/) | [code](/code/) | [about](/about/)
 
 Coco's meaningful poetry, which speaks to their own lived experiences, has been published around the world. 
 

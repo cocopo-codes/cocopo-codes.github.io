@@ -1,0 +1,17 @@
+main:
+  - title: "Work"
+    url: /tech-writing/
+  - title: "Services"
+    url: /services/
+  - title: "Speaking"
+    url: /speaking/
+  - title: "Pop culture"
+    url: /pop-culture/
+  - title: "Creative"
+    url: /creative/
+  - title: "Zines & books"
+    url: /books/
+  - title: "Illustration"
+    url: /illustration/
+  - title: "About"
+    url: /about/
