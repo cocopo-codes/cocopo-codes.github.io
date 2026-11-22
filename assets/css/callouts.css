@@ -106,3 +106,14 @@ html[data-theme="dark"] .theme-toggle .moon{display:block}
 .pullquote{border-left:4px solid var(--coral) !important;padding-left:.8em !important}
 .cta-band a:not(.btn){color:#fff;text-decoration:underline}
 details.faq summary::before{border-left-color:var(--coral)}
+
+/* ---- Theme fixes for Minimal Mistakes ---- */
+html .page__title,html #page-title,html .page__title a,html .page__inner-wrap .page__title{color:var(--ink-strong) !important}
+.breadcrumbs,.breadcrumbs a{color:var(--muted)} .breadcrumbs a{color:var(--teal-ink)}
+.masthead__inner-wrap{max-width:1280px;padding:.6em 1.5em}
+.site-logo img{width:2.4rem;height:2.4rem;max-height:none;border-radius:50%;object-fit:cover}
+.site-title{font-size:1.1rem}
+.site-subtitle{font-size:.75rem;color:var(--muted)}
+.greedy-nav a{font-size:.95rem;margin:0 .6rem}
+.greedy-nav .visible-links{margin-left:auto}
+@media (max-width:1100px){.site-subtitle{display:none}}

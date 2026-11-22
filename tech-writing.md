@@ -6,7 +6,6 @@ permalink: /tech-writing/
 author_profile: true
 ---
 
-[work](/tech-writing/) | [services](/services/) | [speaking](/speaking/) | [pop culture](/pop-culture/) | [creative](/creative/) | [zines/books](/books/) | [illustration & prints](/illustration/) | [code](/code/) | [about](/about/)
 
 <p class="lede">Making complex things make sense.</p>
 

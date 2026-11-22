@@ -5,7 +5,6 @@ title: Coco Poley's Zines and Books
 permalink: /books/
 ---
 
-[work](/tech-writing/) | [services](/services/) | [speaking](/speaking/) | [pop culture](/pop-culture/) | [creative](/creative/) | [zines/books](/books/) | [illustration & prints](/illustration/) | [code](/code/) | [about](/about/)
 
 Coco has made zines, self-published books, and released their art into the wild from time to time. Here are a few of them. 
 

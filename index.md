@@ -27,7 +27,6 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-[work](/tech-writing/) | [services](/services/) | [speaking](/speaking/) | [pop culture](/pop-culture/) | [creative](/creative/) | [zines/books](/books/) | [illustration & prints](/illustration/) | [code](/code/) | [about](/about/)
 
 <p class="lede">I write developer content, and have the QA discipline to prove it's correct.</p>
 

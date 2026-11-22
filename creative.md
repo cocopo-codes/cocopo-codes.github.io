@@ -5,7 +5,6 @@ title: Coco Poley's Creative Writing
 permalink: /creative/
 ---
 
-[work](/tech-writing/) | [services](/services/) | [speaking](/speaking/) | [pop culture](/pop-culture/) | [creative](/creative/) | [zines/books](/books/) | [illustration & prints](/illustration/) | [code](/code/) | [about](/about/)
 
 Coco's meaningful poetry, which speaks to their own lived experiences, has been published around the world. 
 
