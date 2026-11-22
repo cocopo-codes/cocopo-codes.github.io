@@ -130,7 +130,7 @@ author:
       url: https://buttondown.com/cocos-catchall 
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: https://instagram.com/itscocopo/
+      url: https://www.instagram.com/cp_round_the_world/
     - label: "Linktr.ee"
       icon: "fas fa-fw fa-link"
       url: https://linktr.ee/itscocopo
@@ -149,7 +149,10 @@ footer:
       url: https://buttondown.com/cocos-catchall 
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: https://instagram.com/itscocopo/
+      url: https://www.instagram.com/cp_round_the_world/
+    - label: "Instagram (art)"
+      icon: "fab fa-fw fa-instagram"
+      url: https://www.instagram.com/cavecanem_iv/
     - label: "Linktr.ee"
       icon: "fas fa-fw fa-link"
       url: https://linktr.ee/itscocopo
