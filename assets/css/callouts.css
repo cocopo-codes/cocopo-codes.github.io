@@ -117,3 +117,12 @@ html .page__title,html #page-title,html .page__title a,html .page__inner-wrap .p
 .greedy-nav a{font-size:.95rem;margin:0 .6rem}
 .greedy-nav .visible-links{margin-left:auto}
 @media (max-width:1100px){.site-subtitle{display:none}}
+
+/* ---- Widen the main column: drop the empty right-hand TOC gutter Minimal Mistakes reserves ---- */
+@media (min-width:64em){
+  .page{padding-right:0 !important;padding-inline-end:0 !important;width:calc(100% - 200px) !important}
+}
+@media (min-width:80em){
+  .page{width:calc(100% - 300px) !important}
+}
+.page__inner-wrap,.page__content{max-width:none}
