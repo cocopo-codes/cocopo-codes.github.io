@@ -1,0 +1,115 @@
+{% include theme-init.html %}
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap">
+<link rel="stylesheet" href="{{ '/assets/css/callouts.css' | relative_url }}">
+{% if page.url == "/" %}
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Person",
+ "name": "Coco Poley",
+ "alternateName": "Corissa Haury",
+ "jobTitle": "Technical Content Engineer",
+ "url": "https://cocopo-codes.github.io/",
+ "image": "https://cocopo-codes.github.io/images/coco-poley-headshot.jpg",
+ "email": "mailto:coco_writes@icloud.com",
+ "address": {
+  "@type": "PostalAddress",
+  "addressLocality": "Madrid",
+  "addressCountry": "ES"
+ },
+ "description": "Technical content engineer who writes developer tutorials, API documentation, and B2B content, and verifies AI-assisted content with QA testing.",
+ "knowsAbout": [
+  "Technical writing",
+  "API documentation",
+  "Developer content marketing",
+  "SEO",
+  "Answer engine optimization (AEO)",
+  "AI content verification",
+  "QA test automation",
+  "Data engineering",
+  "dbt",
+  "Rich text editors"
+ ],
+ "sameAs": [
+  "https://www.linkedin.com/in/cocowrites/",
+  "https://github.com/cocopo-codes",
+  "https://dev.to/itscocopo",
+  "https://www.tiny.cloud/blog/author/coco-poley/",
+  "https://stackoverflow.blog/author/corissa-e-haury/",
+  "https://www.howtogeek.com/author/coco-poley/",
+  "https://www.themarysue.com/author/coco-poley/",
+  "https://womenwriteaboutcomics.com/author/corissa-haury/",
+  "https://www.chillsubs.com/profile/coco_writes",
+  "https://cocowrites.substack.com",
+  "https://bsky.app/profile/itscocopo.bsky.social"
+ ]
+}
+</script>
+{% endif %}
+{% if page.url == "/services/" %}
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+  {
+   "@type": "Question",
+   "name": "What types of companies do you work with?",
+   "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "I work primarily with B2B SaaS companies, developer tool platforms, API providers, and tech startups that need to communicate complex technical concepts to developer audiences."
+   }
+  },
+  {
+   "@type": "Question",
+   "name": "Do you use AI tools in your work?",
+   "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, deliberately and transparently. I use AI for research, outlining, and first-draft acceleration, and then I verify everything and add my own human style and touch. My seven years in QA test automation and data engineering mean I test the code, validate the API calls, and confirm technical claims before anything ships. AI makes me faster; the QA background is what keeps it accurate."
+   }
+  },
+  {
+   "@type": "Question",
+   "name": "How do you ensure technical accuracy?",
+   "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "I have seven years of data engineering, QA test automation, and some web development under my belt, plus three years writing technical documentation and content. I work closely with teams and subject matter experts to verify technical details. I test code examples, validate API calls, and ensure all technical information is current and correct."
+   }
+  },
+  {
+   "@type": "Question",
+   "name": "What's your process for creating technical content?",
+   "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "My process starts with understanding your product, audience, and goals. I then conduct research, interview subject matter experts if needed, create a detailed brief with an outline that you will approve, and finally draft content that balances technical accuracy with readability. Every piece goes through multiple review cycles to ensure quality."
+   }
+  },
+  {
+   "@type": "Question",
+   "name": "What's your turnaround time?",
+   "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Timelines vary by project scope. A short blog post on a topic I'm already an expert in takes 5–7 business days, while comprehensive documentation projects could be a 6-month or even 9-month project. I always negotiate timelines upfront according to the project's needs, and the business's general speed of communication. I will always communicate proactively about progress."
+   }
+  },
+  {
+   "@type": "Question",
+   "name": "Do you offer content strategy services?",
+   "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes! Beyond writing, I help companies develop documentation strategies, conduct content audits, create style guides, and build scalable documentation systems."
+   }
+  },
+  {
+   "@type": "Question",
+   "name": "How do you work with clients?",
+   "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "I work on monthly retainers for an agreed scope, and on individual projects. Happy to shape either around what your team needs."
+   }
+  }
+ ]
+}
+</script>
+{% endif %}

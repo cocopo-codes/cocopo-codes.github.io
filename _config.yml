@@ -19,14 +19,14 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Coco Poley's Portfolio"
 title_separator          : "-"
-subtitle                 : "The place to find Coco's art, writing, prints, books, and more."
+subtitle                 : "Technical content, SEO, pop culture, poetry, zines, and illustration by Coco Poley."
 name                     : "Coco Poley"
-description              : "Coco Poley's portfolio site."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Portfolio of Coco Poley, a Madrid-based technical content writer and SEO/AEO specialist who also writes pop culture, poetry, and makes zines and illustrations."
+url                      : "https://cocopo-codes.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "cocopo-codes/cocopo-codes.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/images/CocoPoLogo.jpg"
+logo                     : "/images/coco-poley-headshot.jpg"
 favicon                  : "/images/CocoPoLogo.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true
@@ -96,7 +96,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "/images/coco-poley-headshot.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -115,22 +115,22 @@ analytics:
 # Site Author
 author:
   name             : "Coco Poley"
-  avatar           : "/images/CocoPoLogo.jpg"
-  bio              : "Writer, artist, poet, and creator of things."
-  location         : "Maine, USA"
+  avatar           : "/images/coco-poley-headshot.jpg"
+  bio              : "Technical content writer, SEO/AEO specialist, poet, and illustrator."
+  location         : "Madrid, Spain"
   links:
     - label: "BlueSky"
       icon: "fab fa-fw fa-bluesky"
       url: https://bsky.app/profile/itscocopo.bsky.social 
     - label: "Substack"
       icon: "fab fa-fw fa-link"
-      url: http://cocowrites.substack.com 
+      url: https://cocowrites.substack.com 
     - label: "Coco's Catchall"
       icon: "fab fa-fw fa-link"
-      url: http://buttondown.com/cocos-catchall 
+      url: https://buttondown.com/cocos-catchall 
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: http://instagram.com/itscocopo/
+      url: https://instagram.com/itscocopo/
     - label: "Linktr.ee"
       icon: "fas fa-fw fa-link"
       url: https://linktr.ee/itscocopo
@@ -143,13 +143,13 @@ footer:
       url: https://bsky.app/profile/itscocopo.bsky.social 
     - label: "Substack"
       icon: "fas fa-fw fa-link"
-      url: http://cocowrites.substack.com 
+      url: https://cocowrites.substack.com 
     - label: "Coco's Catchall"
       icon: "fas fa-fw fa-link"
-      url: http://buttondown.com/cocos-catchall 
+      url: https://buttondown.com/cocos-catchall 
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: http://instagram.com/itscocopo/
+      url: https://instagram.com/itscocopo/
     - label: "Linktr.ee"
       icon: "fas fa-fw fa-link"
       url: https://linktr.ee/itscocopo

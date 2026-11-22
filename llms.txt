@@ -1,0 +1,29 @@
+# Coco Poley
+
+> Coco Poley is a technical content engineer based in Madrid, Spain. Coco writes developer tutorials, API documentation, and B2B content for developer-tool and API companies, and verifies AI-assisted technical content by testing code samples and API calls, drawing on seven years in QA test automation and data engineering (2016–2023) and three years in technical documentation and content. Coco also writes pop culture features and poetry, and illustrates.
+
+Contact: coco_writes@icloud.com. Available for monthly retainers and individual projects, working in European hours.
+
+## Professional work
+
+- [Work and clients](https://cocopo-codes.github.io/tech-writing/): TinyMCE, WEX, Lumen Technologies, Apple, FieldStack, Stack Overflow, How-To Geek; full article lists
+- [Services](https://cocopo-codes.github.io/services/): technical content, AI content quality and verification, technical documentation, video scripting and voiceover, editing and consulting, DEI content; process and FAQs
+- [Speaking and video](https://cocopo-codes.github.io/speaking/): Coalesce 2022 dbt talk, TinyMCE launch videos, WEX Pride DEI webinars
+- [About](https://cocopo-codes.github.io/about/)
+
+## Author archives
+
+- [TinyMCE Blog](https://www.tiny.cloud/blog/author/coco-poley/)
+- [Stack Overflow Blog](https://stackoverflow.blog/author/corissa-e-haury/) (as Corissa E. Haury)
+- [How-To Geek](https://www.howtogeek.com/author/coco-poley/)
+- [The Mary Sue](https://www.themarysue.com/author/coco-poley/)
+- [Women Write About Comics](https://womenwriteaboutcomics.com/author/corissa-haury/) (as Corissa Haury)
+- [DEV Community](https://dev.to/itscocopo)
+- [Chill Subs: full publication list](https://www.chillsubs.com/profile/coco_writes)
+
+## Creative work
+
+- [Pop culture writing](https://cocopo-codes.github.io/pop-culture/)
+- [Poetry and creative writing](https://cocopo-codes.github.io/creative/)
+- [Zines and books](https://cocopo-codes.github.io/books/)
+- [Illustration and prints](https://cocopo-codes.github.io/illustration/)
