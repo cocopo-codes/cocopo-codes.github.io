@@ -51,7 +51,8 @@ I currently live in Madrid, Spain (Central European Time).
   <li><a href="https://dev.to/itscocopo">DEV Community</a></li>
   <li><a href="https://github.com/cocopo-codes/">GitHub</a></li>
   <li><a href="https://www.youtube.com/channel/UCqYMV3E2V9zUS1kpI8450Dw">YouTube</a></li>
-  <li><a href="https://www.instagram.com/cp_round_the_world">Instagram</a></li>
+  <li><a href="https://www.instagram.com/cp_round_the_world/">Instagram</a></li>
+  <li><a href="https://www.instagram.com/cavecanem_iv/">Instagram (illustration)</a></li>
   <li><a href="https://linktr.ee/itscocopo">Linktree</a></li>
 </ul>
 

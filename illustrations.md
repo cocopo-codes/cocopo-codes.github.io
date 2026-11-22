@@ -7,7 +7,7 @@ permalink: /illustration/
 
 
 
-Coco is a self-taught illustrator who uses digital and analog mediums to create cute and fun artwork, meaningful prints, and sweet watercolor paintings. Please enjoy exploring Coco's illustrations.
+Coco is a self-taught illustrator who uses digital and analog mediums to create cute and fun artwork, meaningful prints, and sweet watercolor paintings. Please enjoy exploring Coco's illustrations, and see new work on Instagram at [@cavecanem_iv](https://www.instagram.com/cavecanem_iv/).
 
 ## Digital illustrations
 

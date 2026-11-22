@@ -21,3 +21,5 @@ _Two of Coco's poems, "I am a magnifying glass" and "All the glories of summer" 
 To see self-published books by Coco, check out [the Zines and Books page](/books/) 
 
  Space archaeology! A sassy woman! A man who can't get enough! Coco had the honor of writing the back matter for the inimitable Claire Napier's space heroine comic, [_Dash Dearborne_](https://bleatingheartpress.gumroad.com/l/dash1-digital?layout=profile) in 2020.
+
+For art, poetry snippets, and personal updates, follow Coco on Instagram at [@cavecanem_iv](https://www.instagram.com/cavecanem_iv/).
