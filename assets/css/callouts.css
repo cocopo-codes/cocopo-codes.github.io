@@ -133,3 +133,8 @@ html{font-size:16px}
 
 /* ---- Transparent PNGs get a white backdrop so they read in dark mode ---- */
 img[src$=".png" i],img[src$=".PNG"]{background:#fff}
+
+/* ---- Full-width images: smaller and centered on desktop ---- */
+@media (min-width:64em){
+  .page__content img[width="100%"]{width:auto !important;height:auto !important;max-width:min(100%,640px);max-height:80vh;display:block;margin:1.4em auto}
+}
